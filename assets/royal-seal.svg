@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Original fictional imperial seal for the developer archive.">
+<style>
+text{font-family:Georgia,'Times New Roman',serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+</style>
+
+<rect width="1200" height="240" fill="#120D09"/>
+<path d="M600 18L615 42L644 43L628 64L637 91L610 82L600 107L590 82L563 91L572 64L556 43L585 42Z" fill="none" stroke="#C9A45C" stroke-width="2"/>
+<circle cx="600" cy="120" r="78" fill="#1A120C" stroke="#C9A45C" stroke-width="2"/>
+<circle cx="600" cy="120" r="64" fill="none" stroke="#8E5F3D" stroke-width="2" stroke-dasharray="3 5"/>
+<path d="M600 70L612 106L650 106L619 128L631 164L600 143L569 164L581 128L550 106L588 106Z" fill="none" stroke="#E3C887" stroke-width="2"/>
+<text x="600" y="124" text-anchor="middle" font-size="18" font-weight="bold" fill="#F0E4C8">NM</text>
+<text x="600" y="207" text-anchor="middle" font-size="12" letter-spacing="5" fill="#C9A45C" class="mono">SEAL OF THE ARCHIVE • 4616</text>
+
+</svg>

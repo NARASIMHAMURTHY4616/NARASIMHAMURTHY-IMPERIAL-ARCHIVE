@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Astronomical constellation inspired graphic representing GitHub developer activity.">
+<style>
+text{font-family:Georgia,'Times New Roman',serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+</style>
+
+<rect width="1200" height="360" fill="#120D09"/>
+<g stroke="#263044" fill="none" opacity=".9">
+ <path d="M120 250L260 90L430 220L600 70L760 230L940 100L1080 260L120 250Z"/>
+ <path d="M120 250L600 70L1080 260M260 90L760 230M430 220L940 100"/>
+</g>
+<g fill="#E3C887" stroke="#C9A45C">
+ <circle cx="120" cy="250" r="6"/><circle cx="260" cy="90" r="8"/><circle cx="430" cy="220" r="5"/><circle cx="600" cy="70" r="9"/><circle cx="760" cy="230" r="6"/><circle cx="940" cy="100" r="7"/><circle cx="1080" cy="260" r="5"/>
+</g>
+<text x="600" y="35" text-anchor="middle" font-size="12" letter-spacing="6" fill="#C9A45C" class="mono">NAKSHATRA • DEVELOPER CONSTELLATION</text>
+<text x="600" y="125" text-anchor="middle" font-size="26" fill="#F0E4C8">GitHub activity is signal, not ornament.</text>
+<text x="600" y="155" text-anchor="middle" font-size="12" fill="#B39A79">Live contribution and streak data may be displayed below through external services.</text>
+<g font-size="11" text-anchor="middle" fill="#B39A79" class="mono">
+<text x="260" y="116">COMMITS</text><text x="600" y="100">CONTRIBUTIONS</text><text x="940" y="126">STREAK</text>
+</g>
+
+</svg>

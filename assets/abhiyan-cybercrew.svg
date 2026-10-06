@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Imperial campaign dossier for CyberCrew.">
+<style>
+text{font-family:Georgia,'Times New Roman',serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+</style>
+<rect width="1200" height="240" fill="#120D09"/>
+<path d="M40 1H220" stroke="#C9A45C" stroke-width="3"/>
+<text x="40" y="38" font-size="12" letter-spacing="5" fill="#C9A45C" class="mono">ABHIYAN IV</text>
+<text x="40" y="84" font-size="38" font-weight="bold" fill="#F0E4C8">CyberCrew</text>
+<text x="40" y="112" font-size="12" letter-spacing="3" fill="#B39A79" class="mono">LEARNING COMMUNITY • TECHNICAL ASSESSMENT</text>
+<path d="M40 135H1160" stroke="#5E4635"/>
+<text x="40" y="165" font-size="11" letter-spacing="3" fill="#E3C887" class="mono">PURPOSE</text>
+<text x="40" y="190" font-size="13" fill="#F0E4C8">Strengthen cybersecurity fundamentals through technical assessment.</text>
+<text x="600" y="165" font-size="11" letter-spacing="3" fill="#E3C887" class="mono">RESULT</text>
+<text x="600" y="190" font-size="13" fill="#F0E4C8">First-round assessment: 45 / 50</text>
+<path d="M1110 155L1140 185L1110 215L1080 185Z" fill="#8C3030" opacity=".8" stroke="#E3C887"/>
+
+</svg>

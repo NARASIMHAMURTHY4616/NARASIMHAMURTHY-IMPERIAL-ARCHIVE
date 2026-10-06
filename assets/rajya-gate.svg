@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="A monumental ancient Indian inspired imperial gateway framing the NARASIMHAMURTHY developer archive.">
+<style>
+text{font-family:Georgia,'Times New Roman',serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+</style>
+
+<defs>
+ <pattern id="stone" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M0 35H36M35 0V36" stroke="#5E4635" stroke-opacity=".18"/></pattern>
+ <linearGradient id="bronze" x1="0" x2="1"><stop stop-color="#8E5F3D"/><stop offset=".5" stop-color="#C9A45C"/><stop offset="1" stop-color="#8E5F3D"/></linearGradient>
+</defs>
+<rect width="1200" height="400" fill="#120D09"/><rect width="1200" height="400" fill="url(#stone)"/>
+<path d="M70 360V115Q70 55 130 55H1070Q1130 55 1130 115V360" fill="none" stroke="#C9A45C" stroke-width="3"/>
+<path d="M105 360V130Q105 85 150 85H1050Q1095 85 1095 130V360" fill="#1A120C" stroke="#8E5F3D" stroke-width="2"/>
+<path d="M385 360V155Q385 95 445 95H755Q815 95 815 155V360" fill="#120D09" stroke="#C9A45C" stroke-width="3"/>
+<path d="M425 360V170Q425 130 465 130H735Q775 130 775 170V360" fill="#263044" stroke="#8E5F3D" stroke-width="2"/>
+<path d="M600 105L635 140L600 175L565 140Z" fill="#120D09" stroke="#C9A45C" stroke-width="2"/>
+<path d="M600 118L622 140L600 162L578 140Z" fill="#8C3030" opacity=".8"/>
+<g fill="#C9A45C" opacity=".8"><circle cx="205" cy="140" r="5"/><circle cx="995" cy="140" r="5"/><circle cx="265" cy="190" r="3"/><circle cx="935" cy="190" r="3"/></g>
+<text x="600" y="42" text-anchor="middle" font-size="13" letter-spacing="6" fill="#E3C887" class="mono">RAJYA • IMPERIAL ARCHIVE</text>
+<text x="600" y="225" text-anchor="middle" font-size="43" font-weight="bold" fill="#F0E4C8">NARASIMHAMURTHY</text>
+<text x="600" y="255" text-anchor="middle" font-size="14" letter-spacing="4" fill="#C9A45C">CYBER SECURITY ENGINEERING • YEAR III</text>
+<text x="600" y="304" text-anchor="middle" font-size="18" fill="#B39A79">Observe the field. Trace the anomaly. Forge the defense.</text>
+<text x="600" y="338" text-anchor="middle" font-size="11" letter-spacing="4" fill="#8E5F3D" class="mono">THE ARCHIVE IS OPEN</text>
+
+</svg>

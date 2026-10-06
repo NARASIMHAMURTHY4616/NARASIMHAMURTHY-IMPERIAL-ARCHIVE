@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-label="Royal council hall representing the developer&#x27;s technical disciplines.">
+<style>
+text{font-family:Georgia,'Times New Roman',serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+</style>
+
+<rect width="1200" height="430" fill="#120D09"/>
+<path d="M70 380V95H160V380M220 380V95H310V380M890 380V95H980V380M1040 380V95H1130V380" fill="#1A120C" stroke="#8E5F3D" stroke-width="2"/>
+<path d="M55 95H1145M95 65H1105M135 38H1065" stroke="#C9A45C" stroke-width="2"/>
+<path d="M310 380V150Q310 100 360 100H840Q890 100 890 150V380" fill="#1A120C" stroke="#C9A45C" stroke-width="3"/>
+<g fill="#120D09" stroke="#8E5F3D">
+ <rect x="355" y="175" width="140" height="90"/><rect x="530" y="175" width="140" height="90"/><rect x="705" y="175" width="140" height="90"/>
+</g>
+<g font-size="16" font-weight="bold" text-anchor="middle" fill="#F0E4C8">
+ <text x="425" y="212">CYBERSECURITY</text><text x="600" y="212">PYTHON</text><text x="775" y="212">LOCAL AI</text>
+</g>
+<g font-size="11" text-anchor="middle" fill="#B39A79">
+ <text x="425" y="238">DFIR • DETECTION</text><text x="600" y="238">AUTOMATION • SYSTEMS</text><text x="775" y="238">RAG • OLLAMA</text>
+</g>
+<text x="600" y="315" text-anchor="middle" font-size="13" letter-spacing="5" fill="#C9A45C" class="mono">SABHA • COUNCIL OF DISCIPLINES</text>
+<text x="600" y="345" text-anchor="middle" font-size="13" fill="#B39A79">Knowledge is the council; practice is its testimony.</text>
+
+</svg>

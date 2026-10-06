@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" width="1200" height="390" role="img" aria-label="Ancient armory inspired technical arsenal showing programming, engineering and security tools.">
+<style>
+text{font-family:Georgia,'Times New Roman',serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+</style>
+
+<rect width="1200" height="390" fill="#120D09"/>
+<path d="M60 340V90H1140V340M60 90L105 45H1095L1140 90" fill="none" stroke="#C9A45C" stroke-width="2"/>
+<g stroke="#8E5F3D" fill="#1A120C">
+ <rect x="100" y="125" width="300" height="155"/><rect x="450" y="125" width="300" height="155"/><rect x="800" y="125" width="300" height="155"/>
+</g>
+<g font-size="16" font-weight="bold" fill="#E3C887" text-anchor="middle">
+ <text x="250" y="158">ASTRA</text><text x="600" y="158">YANTRA</text><text x="950" y="158">SHASTRA</text>
+</g>
+<g font-size="13" fill="#F0E4C8" text-anchor="middle">
+ <text x="250" y="192">Python • Linux • Git</text><text x="600" y="192">Flask • MongoDB • Ollama</text><text x="950" y="192">DFIR • Detection • RAG</text>
+</g>
+<g font-size="11" fill="#B39A79" text-anchor="middle">
+ <text x="250" y="222">digital arsenal</text><text x="600" y="222">engineering instruments</text><text x="950" y="222">methods of knowledge</text>
+</g>
+<path d="M130 250H370M480 250H720M830 250H1070" stroke="#C9A45C" opacity=".45"/>
+<text x="600" y="35" text-anchor="middle" font-size="12" letter-spacing="5" fill="#C9A45C" class="mono">ASTRA • IMPERIAL TECHNICAL ARSENAL</text>
+
+</svg>
